@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Velvet-Listing",
+    "id":"com.vrchat.Velvet-listing",
+    "url":"https://Velvet643.github.io/Velvet-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
+        "email":"kevinbharat643@gmail.com",
         "name":"VRChat",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Velvet643/Sapphire?tab=readme-ov-file",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
